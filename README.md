@@ -4,20 +4,23 @@
 
 Tugas : Mengerjakan CRUDSqLite menggunakan android studio
 
-Tampilan awal
+Tampilan Awal
 ![Screenshot crud](images/01.png)
 
 Tambah Data Baru
 ![Screenshot crud](images/02.png)
 
-Pilihan Lihat, Update dan Delete Data
+Berhasil Tambah Data
 ![Screenshot crud](images/03.png)
 
-Lihat Data
+Pilihan Lihat, Update dan Delete Data
 ![Screenshot crud](images/04.png)
 
-Update Data
+Lihat Data
 ![Screenshot crud](images/05.png)
 
-Delete Data 
+Update Data
 ![Screenshot crud](images/06.png)
+
+Delete Data 
+![Screenshot crud](images/07.png)
